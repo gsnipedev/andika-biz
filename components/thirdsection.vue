@@ -1,6 +1,6 @@
 <template>
-  <div class="third-section">
-    <div class="container py-5">
+  <div class="third-section py-5">
+    <div class="container">
       <div class="big-title text-center patua py-4">Kenapa harus menggunakan jasa kami?</div>
       <div class="big-sub-title text-center heebo">
         Kami adalah tim yang bergerak di bidang Software dengan 3+ tahun pengalaman di bidangnya, kami handal dalam
@@ -55,6 +55,10 @@
           </p>
         </div>
       </div>
+    </div>
+
+    <div class="container">
+      <Contactbar />
     </div>
   </div>
 </template>
