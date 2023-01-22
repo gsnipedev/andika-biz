@@ -13,6 +13,7 @@
 
   <Secondsection />
   <Thirdsection />
+  <Qnasection />
 </template>
 
 <style scoped lang="scss">
