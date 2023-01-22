@@ -1,3 +1,5 @@
+import { Footer } from '~~/.nuxt/components';
+
 <template>
   <section class="top-banner">
     <div class="container py-5">
@@ -14,6 +16,7 @@
   <Secondsection />
   <Thirdsection />
   <Qnasection />
+  <GFooter />
 </template>
 
 <style scoped lang="scss">
