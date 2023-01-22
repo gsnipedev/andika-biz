@@ -46,7 +46,7 @@
     margin-inline: 10px;
 
     &:hover {
-      color: $dark;
+      color: $green;
     }
   }
 }
