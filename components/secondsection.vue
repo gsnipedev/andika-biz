@@ -2,7 +2,7 @@
   <section class="second-section">
     <div class="wrapper pb-5">
       <div class="container py-4">
-        <div class="big-title patua">Apa yang diperlukan untuk menggunakan jasa kami?</div>
+        <div class="big-title patua fs-2">Apa yang diperlukan untuk menggunakan jasa kami?</div>
       </div>
 
       <div class="container text-center">
@@ -60,7 +60,6 @@
 .big-title {
   text-align: center;
   color: white;
-  font-size: 24px;
   text-decoration: underline;
 }
 .second-section {
