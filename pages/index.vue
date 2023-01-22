@@ -1,3 +1,7 @@
+<script setup lang="ts">
+useHead({ title: "Home - NetHeve" });
+</script>
+
 <template>
   <section class="top-banner">
     <div class="container py-5">

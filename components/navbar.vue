@@ -1,6 +1,6 @@
 <template>
-  <nav class="navbar navbar-expand-lg">
-    <div class="container">
+  <nav class="navbar navbar-expand-lg sticky-top">
+    <div class="container the-nav">
       <a class="navbar-brand patua fs-1 text-light" href="#">NetHeve</a>
       <button
         class="navbar-toggler text-light"

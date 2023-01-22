@@ -1,12 +1,15 @@
 <template>
-  <div class="wrapper patua">Jangan lewatkan diskon 10%, hanya untuk hari ini! <a href="#">Klik Disini</a></div>
+  <div class="wrapper py-1">
+    <div class="container">
+      <div class="patua promo-text">Jangan lewatkan diskon 10%, hanya untuk hari ini! <a href="#">Klik Disini</a></div>
+    </div>
+  </div>
 </template>
 
 <style scoped lang="scss">
 .wrapper {
   background-color: $green;
   color: $altdark;
-  padding-block: 5px;
   text-align: center;
 }
 
