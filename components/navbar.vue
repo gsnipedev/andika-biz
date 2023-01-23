@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg sticky-top">
     <div class="container the-nav">
-      <a class="navbar-brand patua fs-1 text-light" href="#">NetHeve</a>
+      <a class="navbar-brand patua fs-1 text-light" href="/">NetHeve</a>
       <button
         class="navbar-toggler text-light"
         type="button"
@@ -20,8 +20,8 @@
       </button>
       <div class="collapse navbar-collapse patua local-navbar" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link" aria-current="page" href="#">Beranda</a>
-          <a class="nav-link" href="#">Produk & Layanan</a>
+          <a class="nav-link" aria-current="page" href="/">Beranda</a>
+          <a class="nav-link" href="/product">Produk & Layanan</a>
           <a class="nav-link" href="#">Pembayaran</a>
           <a class="nav-link" href="#">Kontak</a>
           <a class="nav-link" href="#">Tentang</a>
