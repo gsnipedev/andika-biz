@@ -58,7 +58,7 @@
     </div>
 
     <div class="container">
-      <Contactbar />
+      <Contactbar title="Anda butuh untuk keperluan Akademik?" sub-title="Kami sediakan Software Informasi Akademik" />
     </div>
   </div>
 </template>

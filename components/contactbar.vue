@@ -1,9 +1,18 @@
+<script>
+export default {
+  props: {
+    title: String,
+    subTitle: String,
+  },
+};
+</script>
+
 <template>
   <div class="container wrapper p-4 mt-5">
     <div class="row">
       <div class="col-12 col-lg-9">
-        <p class="sub-title m-0 heebo">Anda butuh untuk keperluan Akademik?</p>
-        <p class="big-title fs-1 patua m-0">Kami sediakan Software Informasi Akademik</p>
+        <p class="sub-title m-0 heebo">{{ title }}</p>
+        <p class="big-title fs-1 patua m-0">{{ subTitle }}</p>
       </div>
       <div class="col-12 col-lg-3 d-flex align-items-center justify-content-center">
         <button class="order-button patua">Pesan Sekarang</button>
