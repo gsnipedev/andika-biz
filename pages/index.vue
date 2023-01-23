@@ -18,7 +18,6 @@ useHead({ title: "Home - NetHeve" });
   <Secondsection />
   <Thirdsection />
   <Qnasection />
-  <GFooter />
 </template>
 
 <style scoped lang="scss">
