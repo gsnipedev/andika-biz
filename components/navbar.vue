@@ -22,7 +22,7 @@
         <div class="navbar-nav">
           <a class="nav-link" aria-current="page" href="/">Beranda</a>
           <a class="nav-link" href="/product">Produk & Layanan</a>
-          <a class="nav-link" href="#">Pembayaran</a>
+          <a class="nav-link" href="/payment">Pembayaran</a>
           <a class="nav-link" href="#">Kontak</a>
           <a class="nav-link" href="#">Tentang</a>
         </div>
