@@ -53,8 +53,8 @@
         <li>
           <img src="/images/paypal.png" alt="" width="64" class="bg-light p-1" /> Paypal - andikawpb211@gmail.com ($USD)
         </li>
-        <li><img src="/images/dana.jpg" alt="" width="64" /> DANA - +62 823 8287 8591 (IDR)</li>
-        <li><img src="/images/gopay.png" alt="" width="64" class="bg-light" /> Gopay (IDR)</li>
+        <li><img src="/images/dana.jpg" alt="" width="64" class="normal-image" /> DANA - +62 823 8287 8591 (IDR)</li>
+        <li><img src="/images/gopay.png" alt="" width="64" class="bg-light normal-image" /> Gopay (IDR)</li>
         <li><img src="/images/ovo.png" alt="" width="64" class="bg-light p-1" /> Ovo (IDR)</li>
       </ul>
 
@@ -133,5 +133,12 @@
 
 .green-svg {
   color: $green;
+}
+
+.normal-image {
+  object-fit: cover;
+  height: 24px;
+  object-position: 100% 50%;
+  image-rendering: optimizeQuality;
 }
 </style>
