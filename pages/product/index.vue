@@ -130,7 +130,9 @@
       </ul>
     </div>
 
-    <Contactbar title="Tunggu apalagi?" sub-title="Hubungi kami, dan pesan sekarang!" class="mb-5" />
+    <div class="container">
+      <Contactbar title="Tunggu apalagi?" sub-title="Hubungi kami, dan pesan sekarang!" class="mb-5" />
+    </div>
   </section>
 </template>
 
