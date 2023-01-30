@@ -24,7 +24,7 @@
           <a class="nav-link" href="/product">Produk & Layanan</a>
           <a class="nav-link" href="/payment">Pembayaran</a>
           <a class="nav-link" href="#">Kontak</a>
-          <a class="nav-link" href="#">Tentang</a>
+          <a class="nav-link" href="/about">Tentang</a>
         </div>
       </div>
     </div>
