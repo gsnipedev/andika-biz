@@ -1,3 +1,7 @@
+<script setup lang="ts">
+useHead({ title: "Produk & Layanan - NetHeve" });
+</script>
+
 <template>
   <section class="product-section">
     <div class="container py-5">

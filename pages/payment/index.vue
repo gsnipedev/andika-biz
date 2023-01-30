@@ -1,3 +1,7 @@
+<script setup lang="ts">
+useHead({ title: "Pembayaran - NetHeve" });
+</script>
+
 <template>
   <section class="payinfo-section">
     <div class="container py-5">

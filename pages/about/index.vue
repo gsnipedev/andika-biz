@@ -1,3 +1,7 @@
+<script setup lang="ts">
+useHead({ title: "Tentang Kami - NetHeve" });
+</script>
+
 <template>
   <section class="chill-section">
     <div class="container py-5">
